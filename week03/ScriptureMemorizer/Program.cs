@@ -99,8 +99,8 @@ class Program
     }
 }
 /*
-    i Adda a functionality to have library of scripture so the use can choose from 
-    i also added a functionality to select the difficulty and this determines the number of words to be hiden 
-    and also i added a functionality to hide words that havement been already hidden 
-    i added a functionality to also display the available scriptures in the library
+    I implemented a scripture library that allows users to select from a collection of scriptures.
+    I added a difficulty selection feature that determines the number of words to be hidden.
+    I ensured that only words that have not already been hidden are selected for hiding.
+    I added functionality to display all available scriptures in the library.
  */
